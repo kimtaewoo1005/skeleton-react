@@ -1,0 +1,1 @@
+export const selectNumber = (state) => state.number.value;
